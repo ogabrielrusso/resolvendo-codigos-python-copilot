@@ -19,12 +19,15 @@ __😱 Desafios:__
 __😅 Soluções:__
 
 1. Concatenando dados
-  - Aqui aprendi a manipular string, concatenar, inserir entrada de dados e a usar o Github Copilot para auxiliar no desenvolvimento do código e na explicação de tal.
+  
+    -  Aqui aprendi a manipular string, concatenar, inserir entrada de dados e a usar o Github Copilot para auxiliar no desenvolvimento do código e na explicação de tal.
 
   2. Repetindo texto
-    - Além de aprender a manipular string, adicionei números inteiros (int), realizei multiplas repetições misturando string com números inteiros (int).
+    
+     - Além de aprender a manipular string, adicionei números inteiros (int), realizei multiplas repetições misturando string com números inteiros (int).
 
   3. Operção matemática
+   
       - Aprendi a realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão.
 
 
