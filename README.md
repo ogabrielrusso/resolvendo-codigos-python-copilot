@@ -24,9 +24,9 @@ __😅 Soluções:__
 
   2. Repetindo texto
     
-     - Além de aprender a manipular string, adicionei números inteiros (int), realizei multiplas repetições misturando string com números inteiros (int).
+     - Além de aprender a manipular string, adicionei números inteiros (int), realizei múltiplas repetições misturando string com números inteiros (int).
 
-  3. Operção matemática
+  3. Operação matemática
    
       - Aprendi a realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão.
 
@@ -35,8 +35,8 @@ __😅 Soluções:__
 
 ## Conclusão
 
-🧑‍💻 Aprendi com esse projeto que é muito importante termos um aliado como o Github Copilot no auxílio de nossos códigos. Facilita na automoção do desenvolvimento mas que é extremamente importante ter o conhecimento do que está desenvolvendo, pois, o Github Copilot nos ajuda a desenvolver e não à realizar 100% do trabalho. 
+🧑‍💻 Aprendi com esse projeto que é muito importante termos um aliado como o Github Copilot no auxílio de nossos códigos. Facilita na automoção do desenvolvimento mas que é extremamente importante ter o conhecimento do que está desenvolvendo, pois, o Github Copilot nos ajuda a desenvolver e não a realizar 100% do trabalho. 
 
 📖 E caso esteja aprendendo a desenvolver um projeto, podemos usar o Github Copilot para ajudar com instruções e ensinamentos para adquirirmos mais sabedoria na hora de realizar o trabalho. 
 
-🤖 Github Copilot é uma excelente ferramenta para trabalharmos em conjuto e não só depender totalmente dela!
+🤖 Github Copilot é uma excelente ferramenta para trabalharmos em conjunto e não só depender totalmente dela!
