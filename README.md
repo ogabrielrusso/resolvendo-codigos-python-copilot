@@ -1,6 +1,6 @@
 # 🐍 Resolvendo códigos em Python com o Github Copilot
 
-## 🤖 Usando a IA para aprender e trabalhar com mais eficiência
+## DIO -  🤖  Desafio usando a IA para aprender e trabalhar com mais eficiência
 
 <br><br><br><br>
 
